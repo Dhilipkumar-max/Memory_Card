@@ -1,0 +1,6 @@
+{
+  "name": "Memory Adventure",
+  "description": "An Autism-Friendly Memory Card Matching Game designed specifically for children aged 4-10 with soft pastel colors, positive reinforcement, and interactive visual aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
